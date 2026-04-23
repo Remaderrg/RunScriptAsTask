@@ -1,0 +1,21 @@
+# Node / VS Code extension build artifacts
+**/node_modules/
+**/out/
+**/*.vsix
+
+# VS Code test downloads
+**/.vscode-test/
+
+# Logs
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/pnpm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
