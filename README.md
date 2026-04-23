@@ -2,6 +2,8 @@
 
 Run `.bat`, `.cmd`, and `.ps1` files in the integrated terminal with one click.
 
+Repository: `https://github.com/Remaderrg/RunScriptAsTask`
+
 ## Features
 
 - **Run button** in the editor title bar when a `.bat`, `.cmd`, or `.ps1` file is open
